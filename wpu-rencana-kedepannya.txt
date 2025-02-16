@@ -5,6 +5,7 @@ Rencana kedepannya WPU
 - belajar mencintai programing karena ini masa depan kita
 *dengan giat belajar dimanapun itu
 - sayangi dan bertanggungjawab dengan apa yang kita mulai
+
 -Frontend Development
 Fokus pada bagian yang dapat dilihat dan diinteraksikan langsung oleh pengguna (user interface)
 Teknologi dasar yang perlu dipelajari:
@@ -17,3 +18,4 @@ React.js
 Vue.js
 Angular
 Tailwind CSS
+
