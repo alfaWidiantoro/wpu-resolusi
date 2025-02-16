@@ -5,3 +5,15 @@ Rencana kedepannya WPU
 - belajar mencintai programing karena ini masa depan kita
 *dengan giat belajar dimanapun itu
 - sayangi dan bertanggungjawab dengan apa yang kita mulai
+- Backend Development
+Mengatur logika server, database, dan proses di balik layar
+Teknologi dasar yang perlu dipelajari:
+Bahasa pemrograman server: Python, PHP, Java, Node.js
+Database: MySQL, PostgreSQL, MongoDB
+API (Application Programming Interface)
+Server dan hosting
+Framework populer:
+Laravel (PHP)
+Django/Flask (Python)
+Express.js (Node.js)
+Spring Boot (Java)
